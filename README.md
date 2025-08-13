@@ -31,7 +31,7 @@ With each correct round, the sequence gets longer and the challenge increases!
 ---
 
 ## 🚀 Live Demo
-[Play the Game]([https://yourusername.github.io/simon-says-game](https://charancheedella.github.io/Simon-Says-Game/))
+[Play the Game](https://charancheedella.github.io/Simon-Says-Game/)
 
 ---
 
